@@ -14,6 +14,6 @@ public class SILab1Main {
             list.add(sc.next());
         }
 	System.out.println(SILab1_1.filterOddLengthStrings(list));	
-    }
+      }
 }
 
