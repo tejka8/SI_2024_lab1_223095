@@ -1,0 +1,35 @@
+commit 0fed0e7f85b215ec381821b9e9f7f9160f2417a8 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: Teodora Stojanovska <teodora.stojanovska@students.finki.ukim.mk>
+Date:   Sat Apr 13 13:30:25 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 8b0c92b300aa162bfec32ad9a27cb56e3228aaac
+Author: Teodora Stojanovska <teodora.stojanovska@students.finki.ukim.mk>
+Date:   Sat Apr 13 13:15:16 2024 +0200
+
+    Fix wrong condition in makeBigStringForm
+
+commit 430b2bd990b7246eb41c68e31443f58c8298feb2 (origin/bug1, bug1)
+Author: Teodora Stojanovska <teodora.stojanovska@students.finki.ukim.mk>
+Date:   Sat Apr 13 13:26:59 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 8f7354ef21e5b637ede38cbc7cf45be5df767c04
+Author: Teodora Stojanovska <teodora.stojanovska@students.finki.ukim.mk>
+Date:   Sat Apr 13 13:07:00 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit a819570d366bb83bfda801c2d5d1cd75c4b11720
+Author: Teodora Stojanovska <teodora.stojanovska@students.finki.ukim.mk>
+Date:   Sat Apr 13 12:56:47 2024 +0200
+
+    Add starter code
+
+commit 62453ff599d0ec962d16534adf128be6d28a192d
+Author: Teodora Stojanovska <teodora.stojanovska@students.finki.ukim.mk>
+Date:   Fri Apr 12 16:56:15 2024 +0200
+
+    Initial commit
